@@ -3,3 +3,11 @@ bin/
 .classpath
 .project
 project.properties
+
+# Java byte code
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
